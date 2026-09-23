@@ -1,6 +1,8 @@
 numpy
-opencv-python
+opencv-python==4.13.0.92
 matplotlib
 pandas
 scikit-learn
-deepface
+deepface[tensorflow]==0.0.101
+tensorflow==2.21.0
+tf-keras==2.21.0
